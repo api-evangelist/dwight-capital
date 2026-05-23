@@ -1,0 +1,92 @@
+aid: dwight-capital
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/dwight-capital/refs/heads/main/apis.yml
+name: Dwight Capital
+tags:
+  - Commercial Real Estate
+  - Real Estate Finance
+  - HUD Lending
+  - FHA Lending
+  - Bridge Lending
+  - Multifamily
+  - Mortgage
+  - Financial Services
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+common:
+  - type: Website
+    url: https://www.dwightcapital.com/
+  - type: GitHubOrganization
+    url: https://github.com/dwightcapital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dwight-capital
+  - type: About
+    url: https://www.dwightcapital.com/about
+  - type: Services
+    url: https://www.dwightcapital.com/services
+  - type: Team
+    url: https://www.dwightcapital.com/team
+  - type: News
+    url: https://www.dwightcapital.com/news
+  - type: Careers
+    url: https://www.dwightcapital.com/careers
+  - type: Contact
+    url: https://www.dwightcapital.com/contact
+  - type: PrivacyPolicy
+    url: https://www.dwightcapital.com/privacy-policy
+  - type: ServicingPortal
+    url: https://www.dwightcapital.com/servicing-portal
+  - type: Features
+    data:
+      - name: FHA / HUD Insured Lending
+        description: Federally insured multifamily and healthcare loans under HUD programs including 223(f) acquisition/refinance, 221(d)(4) new construction and substantial rehabilitation, 223(a)(7) refinance, and 232 healthcare/seniors housing financing.
+      - name: Balance-Sheet Bridge Loans
+        description: Short-term bridge financing with terms up to three years designed to position properties for a permanent FHA/HUD takeout. Borrowers receive time to stabilize operations and meet HUD underwriting requirements.
+      - name: Balance-Sheet Construction Loans
+        description: In-house construction lending program for multifamily and mixed-use properties, covering ground-up development of garden-style and mid-rise assets through substantial rehabilitation and adaptive reuse conversions.
+      - name: C-PACE Financing
+        description: Commercial Property Assessed Clean Energy financing for energy efficiency, renewable energy, water conservation, and resiliency improvements on commercial real estate.
+      - name: Mezzanine Financing
+        description: Subordinate debt layered behind senior mortgages to bridge the gap between senior loan proceeds and the borrower's equity contribution on commercial real estate transactions.
+      - name: Preferred Equity
+        description: Equity-style capital structured with priority distributions, used alongside senior debt to recapitalize, acquire, or develop multifamily and commercial properties.
+      - name: In-House Loan Servicing
+        description: Servicing portfolio exceeding $15 billion across all Dwight Capital affiliates, handling payment processing, escrow administration, draws, and asset management for HUD and balance-sheet loans.
+  - type: UseCases
+    data:
+      - name: Multifamily Acquisition Financing
+        description: HUD 223(f) insured loans for the acquisition or refinance of existing market-rate, affordable, and subsidized multifamily housing properties.
+      - name: New Construction & Substantial Rehab
+        description: HUD 221(d)(4) financing for ground-up multifamily construction or substantial rehabilitation projects requiring long-term, non-recourse, fixed-rate debt.
+      - name: Seniors Housing & Healthcare
+        description: HUD Section 232 loans for skilled nursing facilities, assisted living, and intermediate care properties.
+      - name: Bridge-to-HUD Execution
+        description: Sponsors use Dwight's bridge loan to acquire or stabilize a property, then refinance into a permanent FHA/HUD insured loan once HUD underwriting criteria are met.
+      - name: Capital Stack Optimization
+        description: Combine senior HUD or bank debt with mezzanine, preferred equity, or C-PACE from Dwight to maximize proceeds and lower blended cost of capital.
+  - type: Integrations
+    data:
+      - name: HUD MAP & LEAN Programs
+        description: Approved Multifamily Accelerated Processing (MAP) and LEAN Section 232 lender, originating and underwriting loans directly with HUD field offices and the Office of Multifamily Housing.
+      - name: Ginnie Mae MBS
+        description: HUD-insured loans are pooled into Ginnie Mae mortgage-backed securities, providing the capital markets execution behind the firm's FHA/HUD origination volume.
+      - name: Commercial Real Estate Sponsors
+        description: Direct origination relationships with multifamily, healthcare, and mixed-use property sponsors across the United States.
+description: >-
+  Dwight Capital LLC is a leading commercial real estate finance company in the United
+  States, with a loan servicing portfolio exceeding $15 billion across all affiliates.
+  The firm originates Balance-Sheet Bridge and New Construction Loans, FHA/HUD Insured
+  Loans, C-PACE Financing, Mezzanine Financing, and Preferred Equity for multifamily,
+  healthcare, and mixed-use commercial real estate. Headquartered in New York City with
+  an additional office in Sunny Isles Beach, Florida, Dwight is consistently ranked among
+  the top FHA/HUD multifamily lenders in the country and operates as a privately held
+  business specializing in bridge-to-HUD execution for commercial real estate sponsors.
+created: '2024-01-15'
+modified: '2026-05-23'
+position: Consuming
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
