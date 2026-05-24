@@ -73,6 +73,8 @@ common:
         description: HUD-insured loans are pooled into Ginnie Mae mortgage-backed securities, providing the capital markets execution behind the firm's FHA/HUD origination volume.
       - name: Commercial Real Estate Sponsors
         description: Direct origination relationships with multifamily, healthcare, and mixed-use property sponsors across the United States.
+  - type: LLMsTxt
+    url: https://dwightcapital.com/llms.txt
 description: >-
   Dwight Capital LLC is a leading commercial real estate finance company in the United
   States, with a loan servicing portfolio exceeding $15 billion across all affiliates.
