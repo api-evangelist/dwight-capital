@@ -1,4 +1,4 @@
-# Dwight Capital (dwight-capital)
+# Dwight Capital
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,69 +66,80 @@
 
 Dwight Capital LLC is a leading commercial real estate finance company in the United States, with a loan servicing portfolio exceeding $15 billion across all affiliates. The firm originates Balance-Sheet Bridge and New Construction Loans, FHA/HUD Insured Loans, C-PACE Financing, Mezzanine Financing, and Preferred Equity for multifamily, healthcare, and mixed-use commercial real estate. Headquartered in New York City with an additional office in Sunny Isles Beach, Florida, Dwight is consistently ranked among the top FHA/HUD multifamily lenders in the country and operates as a privately held business specializing in bridge-to-HUD execution for commercial real estate sponsors.
 
-**URL:** [https://www.dwightcapital.com/](https://www.dwightcapital.com/)
+**Areas:** Commercial Real Estate · Real Estate Finance · HUD Lending · FHA Lending · Bridge Lending · Multifamily · Mortgage · Financial Services
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=dwight-capital-api-evangelist&utm_content=repo)
+## Dwight Capital on APIs.io
 
-## Tags:
+Everything profiled for Dwight Capital is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dwight-capital/](https://apis.io/providers/dwight-capital/)** — or go straight to one of the APIs or properties below.
 
- - Commercial Real Estate, Real Estate Finance, HUD Lending, FHA Lending, Bridge Lending, Multifamily, Mortgage, Financial Services
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2024-01-15
-- **Modified:** 2026-05-23
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented. Dwight Capital is a privately held commercial real estate finance company focused on HUD/FHA-insured, bridge, construction, C-PACE, mezzanine, and preferred equity lending. Borrower interactions occur through a Servicing Portal and direct origination relationships rather than a public developer platform; no OpenAPI, SDK, webhook, or developer portal is published. The associated GitHub organization (`dwightcapital`) exists but has zero public repositories.
+- [Dwight Capital Domain Security](https://apis.io/security/dwight-capital/dwight-capital-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dwightcapital.com/)
-- [GitHubOrganization](https://github.com/dwightcapital)
-- [LinkedIn](https://www.linkedin.com/company/dwight-capital)
-- [About](https://www.dwightcapital.com/about)
-- [Services](https://www.dwightcapital.com/services)
-- [Team](https://www.dwightcapital.com/team)
-- [News](https://www.dwightcapital.com/news)
-- [Careers](https://www.dwightcapital.com/careers)
-- [Contact](https://www.dwightcapital.com/contact)
-- [PrivacyPolicy](https://www.dwightcapital.com/privacy-policy)
-- [ServicingPortal](https://www.dwightcapital.com/servicing-portal)
+- [Blog](https://dwightcapital.com/news/)
+- [Privacy policy](https://www.dwightcapital.com/privacy-policy)
+- [GitHub](https://github.com/dwightcapital)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| FHA / HUD Insured Lending | Federally insured multifamily and healthcare loans under HUD programs including 223(f) acquisition/refinance, 221(d)(4) new construction and substantial rehabilitation, 223(a)(7) refinance, and 232 healthcare/seniors housing financing. |
-| Balance-Sheet Bridge Loans | Short-term bridge financing with terms up to three years designed to position properties for a permanent FHA/HUD takeout. Borrowers receive time to stabilize operations and meet HUD underwriting requirements. |
-| Balance-Sheet Construction Loans | In-house construction lending program for multifamily and mixed-use properties, covering ground-up development of garden-style and mid-rise assets through substantial rehabilitation and adaptive reuse conversions. |
-| C-PACE Financing | Commercial Property Assessed Clean Energy financing for energy efficiency, renewable energy, water conservation, and resiliency improvements on commercial real estate. |
-| Mezzanine Financing | Subordinate debt layered behind senior mortgages to bridge the gap between senior loan proceeds and the borrower's equity contribution on commercial real estate transactions. |
-| Preferred Equity | Equity-style capital structured with priority distributions, used alongside senior debt to recapitalize, acquire, or develop multifamily and commercial properties. |
-| In-House Loan Servicing | Servicing portfolio exceeding $15 billion across all Dwight Capital affiliates, handling payment processing, escrow administration, draws, and asset management for HUD and balance-sheet loans. |
+**Kin Score 5.1** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 56.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-| Name | Description |
-|------|-------------|
-| Multifamily Acquisition Financing | HUD 223(f) insured loans for the acquisition or refinance of existing market-rate, affordable, and subsidized multifamily housing properties. |
-| New Construction & Substantial Rehab | HUD 221(d)(4) financing for ground-up multifamily construction or substantial rehabilitation projects requiring long-term, non-recourse, fixed-rate debt. |
-| Seniors Housing & Healthcare | HUD Section 232 loans for skilled nursing facilities, assisted living, and intermediate care properties. |
-| Bridge-to-HUD Execution | Sponsors use Dwight's bridge loan to acquire or stabilize a property, then refinance into a permanent FHA/HUD insured loan once HUD underwriting criteria are met. |
-| Capital Stack Optimization | Combine senior HUD or bank debt with mezzanine, preferred equity, or C-PACE from Dwight to maximize proceeds and lower blended cost of capital. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| HUD MAP & LEAN Programs | Approved Multifamily Accelerated Processing (MAP) and LEAN Section 232 lender, originating and underwriting loans directly with HUD field offices and the Office of Multifamily Housing. |
-| Ginnie Mae MBS | HUD-insured loans are pooled into Ginnie Mae mortgage-backed securities, providing the capital markets execution behind the firm's FHA/HUD origination volume. |
-| Commercial Real Estate Sponsors | Direct origination relationships with multifamily, healthcare, and mixed-use property sponsors across the United States. |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dwight-capital/](https://apis.io/providers/dwight-capital/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dwight Capital: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dwight-capital/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
